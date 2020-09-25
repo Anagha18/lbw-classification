@@ -25,3 +25,5 @@ A folder labeled ```out``` contains some data for ```knn``` used for benchmarkin
 A folder labelled ```plots``` contains the scripts and images of the various plots used to visualize the data and classifications.
 
 A folder labeled ```res``` contains the resources such as Dr. Snehanshu Saha's paper on the same problem and our report. (WIP)
+
+Code contributed by: Anagha M Anil Kumar, Parth V Shah and Rajath S.
